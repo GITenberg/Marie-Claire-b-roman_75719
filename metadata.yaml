@@ -1,0 +1,48 @@
+_repo: Marie-Claire-b-roman_75719
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Mirbeau, Octave
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '6950'
+    url: http://www.gutenberg.org/2009/agents/6950
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Octave_Mirbeau
+    - https://fr.wikipedia.org/wiki/Octave_Mirbeau
+creator:
+  author:
+    agent_name: Audoux, Marguerite
+    alias: Donquichote, Marguerite
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '9397'
+    url: http://www.gutenberg.org/2009/agents/9397
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Marguerite_Audoux
+    - https://fr.wikipedia.org/wiki/Marguerite_Audoux
+description: 'Wikipedia page about this book: https://fr.wikipedia.org/wiki/Marie-Claire_(roman)
+
+  Winner of le prix Femina, 1910.'
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75719'
+language: fr
+pgterms:marc904: https://archive.org/details/marieclaireroman00audouoft/page/n7/mode/2up
+pgterms:marc905: 20240228090107audoux
+pgterms:marc906: '1911'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bBibliothèque Charpentier, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'Marie-Claire : $b roman'
+url: http://www.gutenberg.org/ebooks/75719
