@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Octave_Mirbeau
     - https://fr.wikipedia.org/wiki/Octave_Mirbeau
+covers:
+- cover_type: archival
+  image_path: 75719-h/images/cover.jpg
 creator:
   author:
     agent_name: Audoux, Marguerite
@@ -24,6 +27,8 @@ creator:
 description: 'Wikipedia page about this book: https://fr.wikipedia.org/wiki/Marie-Claire_(roman)
 
   Winner of le prix Femina, 1910.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75719#Marie-Claire-b-roman
 gutenberg_issued: '2025-03-26'
 gutenberg_type: Text
 identifiers:
